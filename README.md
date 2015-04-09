@@ -1,2 +1,2 @@
-# leanbdd
+# learnbdd
 Slide apresentação BDD
